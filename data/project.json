@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "JMU-AudiAnnotate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92408618?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "JMU-AudiAnnotate",
     "is_private": false,
@@ -56,6 +62,26 @@
       ]
     },
     "created_at": "2025-04-29T14:12:59.840Z",
-    "updated_at": "2025-04-29T14:12:59.840Z"
-  }
+    "updated_at": "2025-04-29T14:12:59.840Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "6d510b72-3b3d-4363-b433-a65bd6bac1d0": {
+      "content": [],
+      "created_at": "2025-04-29T14:12:59.861Z",
+      "created_by": "JMU-AudiAnnotate",
+      "title": "Mari Evans, Everett Hoagland, and Sonia Sanchez Interviews Final Cut, 1994 September 29 - 1994 October 1 [FF0096]",
+      "updated_at": "2025-04-29T14:12:59.861Z",
+      "updated_by": "JMU-AudiAnnotate",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "6d510b72-3b3d-4363-b433-a65bd6bac1d0"
+  ]
 }
