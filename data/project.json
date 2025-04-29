@@ -1,21 +1,61 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "JMU-AudiAnnotate",
+    "is_private": false,
+    "title": "Mari Evans, Everett Hoagland, and Sonia Sanchez Interviews Final Cut, 1994 September 29 - 1994 October 1 [FF0096]",
+    "description": "Interviews with poets at the 1994 Furious Flower Conference. Featured in this video is Mari Evans interviewed by Val Gray Ward, Everett Hoagland interviewed by Kalamu ya Salaam, and Sonia Sanchez interviewed by Lorenzo Thomas. This footage was originally recorded on a MII videocassette.",
+    "language": "en",
+    "slug": "FF0096",
+    "creator": "JMU-AudiAnnotate",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Speaker",
+          "color": "#ADFFD9"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Sonia Sanchez",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Lorenzo Thomas",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Unknown Speaker",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Everett Hoagland",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Kalamu ya Salaam",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Mari Evans",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Val Gray Ward",
+          "category": "Speaker"
+        }
+      ]
+    },
+    "created_at": "2025-04-29T14:12:59.840Z",
+    "updated_at": "2025-04-29T14:12:59.840Z"
   }
 }
